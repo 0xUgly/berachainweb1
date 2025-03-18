@@ -45,8 +45,8 @@ const GameSelectionUI : React.FC<GameSelectionUIProps> = ({ isLoading, selectedG
         </div>
         <div className='w-full flex items-center justify-center mt-3'>
         <div className='w-[312px] '>
-          <h1 className='font-bold font-zk text-[20px] text-[#FF0420]'>BTFD Survival</h1>
-          <div className='font-medium text-[12px] font-zk'>Buy the fucking dip and survive degens</div>
+          <h1 className='font-bold font-zk text-[20px] text-[#FF0420]'>Bearly Alive</h1>
+          <div className='font-medium text-[12px] font-zk'>Can you stay Bearly Alive?</div>
         </div>
         </div>
       </div>

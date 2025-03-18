@@ -25,16 +25,16 @@ function Header() {
               width={33}
               />
             </div>
-            <div className="flex items-center gap-2">
+            <div className="flex items-center gap-2"> */}
               <Image
-              src='/logos/OP.png'
+              src='/logos/BeraChain_Logo.png'
               alt=''
               height={60}
               width={60}
               />
             </div>
-            <div className="text-[#FF0000] text-xs flex flex-col items-end gap-2">
-            <Image
+            {/* <div className="text-[#FF0000] text-xs flex flex-col items-end gap-2"> */}
+            {/* <Image
               src='/logos/thirdweeb.png'
               alt=''
               height={20}
